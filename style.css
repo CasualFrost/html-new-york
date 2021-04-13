@@ -5,4 +5,11 @@ h1 {
 h2 {
     color: red;
 }
-
+img {
+    max-width: 100%;
+}
+footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
